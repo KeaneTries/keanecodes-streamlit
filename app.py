@@ -74,10 +74,6 @@ The metric for evaluation will be f1-score
 """)
 
 st.markdown("Please find GitHub repository link of project: [Click Here](https://github.com/avikumart/Road-Traffic-Severity-Classification-Project)")          
-  
-# run the main function        
-if __name__ == '__main__':
-  main()
 
 # define a main() function to take inputs from user in form based approach
 def main():
@@ -124,4 +120,6 @@ def main():
        [Kaggle](https://www.kaggle.com/avikumart) 
        """)
 
-
+# run the main function        
+if __name__ == '__main__':
+  main()
